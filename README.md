@@ -1,8 +1,8 @@
 # ValveKeyValue
-ValveKeyValue (aka vdf) parser in C++ Finally!
+ValveKeyValue (aka vdf parser) in C++ Finally!
 
 example:
-```
+```c++
 #include <iostream>
 #include <fstream>
 #include "KeyValue.h"
